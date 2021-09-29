@@ -1,0 +1,32 @@
+fieldset{
+	background-color:  #FFFF99;
+	
+	 color:#64B5F6;
+}
+legend{
+	margin: auto;
+	color:#F06292;
+}
+body{
+	
+	text-align: center;
+	font-family: 'Franklin gothic Heavy';
+	font-size: 25px;
+	background-color: #c8e7ed;
+	
+	
+}
+h1{
+	text-align:center; 
+	color:#F06292;
+ }
+ 
+ 
+
+.komunikat{
+	font-size: 13px;
+}
+
+.ramka{
+	background-color: pink;
+}
